@@ -1,0 +1,6 @@
+{
+  "name": "Сам себе SMM",
+  "description": "Бесплатный контент-помощник для создания контент-планов, адаптации постов и контроля регулярности публикаций без ИИ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
